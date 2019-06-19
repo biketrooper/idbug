@@ -1,0 +1,55 @@
+
+{
+  "bugs": [
+        {
+        "name": "Chrysopidae",
+        "predador": true,
+        "descA": "Insetos delicados de coloração esverdeada. Asas estreitas e longas.",
+        "descB": "crisopídeos",
+        "id": "65488",
+        "sId": "chrysopidae",
+        "version": "0.1.0",
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-5-1-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-5-1-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-5-1-3.png"
+            }
+        ]
+        },
+        {
+        "name": "Hemerobiidae",
+        "predador": true,
+        "descA": "Insetos delicados de coloração castanha. Asas com formato oval.",
+        "descB": "hemerobídeos",
+        "id": "65488",
+        "sId": "podisus-spp",
+        "version": "0.1.0",
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-5-2-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-5-2-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-5-2-3.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-5-2-4.png"
+            }
+        ]
+        }
+    ]
+}

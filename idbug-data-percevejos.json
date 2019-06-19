@@ -1,0 +1,238 @@
+
+{
+  "bugs": [
+        {
+        "name": "Euschistus heros",
+        "praga": true,
+        "descA": "Percevejo marrom",
+        "descB": "Percevejos de coloração castanho escuro. Projeções pontiagudas no pronoto voltadas para frente. Parte da cabeça, entre as antenas, arredondada. Ponta das asas não ultrapassa o final do abdômen Ninfas de coloração amarelo esverdeada a castanho, possuem saliência arredondada no pronoto.",
+        "id": "65488",
+        "sId": "euschistus-heros",
+        "version": "0.1.0",
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-1-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-1-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-1-3.png"
+            }
+        ]
+        },
+        {
+        "name": "Podisus spp.",
+        "descA": "precevejo podisus",
+        "descB": "Percevejos com o dorso (“costas”) acinzentado e ventre (“barriga”) mais claro. Projeções pontiagudas no pronoto voltadas para o lado. Ponta das asas ultrapassando o final do abdômen. Parte da cabeça, entre as antenas, arredondada. Ninfas de cor castanha com manchas escuras, sem saliência no pronoto.",
+        "id": "65488",
+        "sId": "podisus-spp",
+        "version": "0.1.0",
+        "predador": true,
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-2-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-2-2.png"
+            }
+        ]
+        },
+        {
+        "name": "Dichelops spp.",
+        "descA": "Percevejo barriga-verde",
+        "descB": "Percevejos com o dorso (“costas”) castanho e ventre (“barriga”) verde. Projeções pontiagudas no pronoto voltadas para o lado. Parte da cabeça entre as antenas com duas projeções pontudas inclusive em ninfas. Estas apresentam coloração esverdeada e saliência arredondada no pronoto.",
+        "id": "65488",
+        "sId": "dichelops-spp",
+        "version": "0.1.0",
+        "praga": true,
+        "pragaDesc": "praga com baixo potencial de dano",
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-3-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-3-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-3-3.png"
+            }
+        ]
+        }
+  ],
+  "bugsB": [
+        {
+        "name": "Nezara viridula",
+        "descA": "Percevejo verde",
+        "descB": "Percevejo de coloração verde intenso e opaco. Sem projeção no pronoto (“ombro arredondado”). As ninfas podem ser verdes com bordas rosadas, ou pretas, ambas com padrão variado de manchas mais ou menos circulares no dorso do abdômen.",
+        "id": "65488",
+        "sId": "nezara-viridula",
+        "version": "0.1.0",
+        "praga": true,
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-4-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-4-2.png"
+            }
+        ]
+        },
+        {
+        "name": "Piezodorus guildinii",
+        "descA": "Percevejo verde-pequeno",
+        "descB": "Percevejo de cor verde-claro e brilhante com uma listra transversal marrom na altura do pronoto. Ninfas recém nascidas são vemelho e preto; as mais velhas são esverdeadas a castanho com a borda anterior do corpo preta e uma mancha na forma de cunha no meio do abdômen.",
+        "id": "65488",
+        "sId": "piezodorus-guildinii",
+        "version": "0.1.0",
+        "praga": true,
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-5-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-5-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-5-3.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-5-4.png"
+            }
+        ]
+        },
+        {
+        "name": "Edessa meditabunda",
+        "descA": "Percevejo asa-preta",
+        "descB": "Percevejo de cor verde com asas marrom escuro a preto. Suas ninfas são achatadas, amarelo-esverdeadas, com a borda do abdômen com manchas esverdeadas e parte central escurecida",
+        "id": "65488",
+        "sId": "edessa-meditabunda",
+        "version": "0.1.0",
+        "praga": true,
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-4-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-4-2.png"
+            }
+        ]
+        },
+        {
+        "name": "Chinavia sp.",
+        "descA": "Percevejo de coloração verde intenso e opaco (muito semelhante ao Nezara).",
+        "descB": "Ponta das asas escuras. Parte do abomem, visível em vista dorsal, amarelado",
+        "id": "65488",
+        "sId": "chinavia-sp.",
+        "version": "0.1.0",
+        "praga": true,
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-4-4-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-4-4-2.png"
+            }
+        ]
+        }
+    ],
+    "bugsC": [
+        {
+          "name": "Neomegalotomus simplex",
+          "descA": "Percevejo formigão",
+          "descB": "Percevejos delgados (“magrinhos”) com cabeça quase da largura do tórax. Olhos salientes projetados para o lado. As ninfas apresentam forte constrição entre o tórax e abdômem, assemelham-se a formigas",
+          "id": "65488",
+          "sId": "neomegalotomus-simplex",
+          "version": "0.1.0",
+          "praga": true,
+          "pragaDesc": "praga com baixo potencial de dano",
+          "gallery": [
+              {
+              "desc": "",
+              "src": "ins-4-8-1.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-8-2.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-8-2.png"
+              }
+          ]
+        },
+        {
+          "name": "Nabis sp.",
+          "descA": "",
+          "descB": "Percevejo alongado (± 1 cm) de aspecto delicado com coloração castanha. Pernas anteriores com fêmur dilatado. Ápice das asas ultrapassando o final do abdômen, apresentando muitas nervuras paralelas. Transição entre tórax e cabeça afinando gradualmente (não apresenta 'pescoço fino').",
+          "id": "65488",
+          "sId": "nabis-sp",
+          "version": "0.1.0",
+          "predador": true,
+          "gallery": [
+              {
+              "desc": "",
+              "src": "ins-4-9-1.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-9-2.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-9-3.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-9-4.png"
+              }
+          ]
+        },
+        {
+          "name": "Reduviidae",
+          "descA": "",
+          "descB": "Percevejos com forma e tamanho muito variado (de 1 a 3 cm). Mas a maioria possui corpo alongado. Sua principal característica é o parelho bucal curvo e curto, com ápice terminando entre as coxas do primeiro par de pernas. Normalmente é possível verificar a presença de uma constrição entre a cabeça e tórax (“pescoço fino”).",
+          "size": "1 a 3 cm",
+          "id": "65488",
+          "sId": "reduviidae",
+          "version": "0.1.0",
+          "predador": true,
+          "gallery": [
+              {
+              "desc": "",
+              "src": "ins-4-10-1.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-10-2.jpg"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-10-3.png"
+              },
+              {
+              "desc": "",
+              "src": "ins-4-10-4.png"
+              }
+          ]
+        }
+    ]
+}

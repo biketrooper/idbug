@@ -1,0 +1,120 @@
+
+{
+  "bugs": [{
+    "bugMB": [
+      {
+      "list": [
+        {
+          "name": "m3",
+          "id": "65483",
+          "sId": "anticarsia-gemmatalis",
+          "version": "0.1.0",
+          "f": true,
+          "nId": "Anticarsia gemmatalis",
+          "d": "adulto da lagarta da soja",
+          "size": "± 2 cm",
+          "praga": true,
+          "props": {
+            "d": "Mariposa robusta. Asas anteriores e posteriores semelhantes em coloração, variando de castanho a cinza; possui uma listra (pode ser escura ou clara) que cruza as asas de ponta a ponta, aproximadamente na região mediana",
+            "serve": "vue-cli-service serve"
+          }
+        },
+        {
+          "name": "m3",
+          "id": "65484",
+          "sId": "anticarsia-gemmatalis",
+          "version": "0.1.0",
+          "f": true,
+          "nId": "Omioides indicata",
+          "d": "adulto da lagarta enroladeira",
+          "size": "± 2 cm",
+          "praga": true,
+          "props": {
+            "d": "Mariposa robusta. Asas anteriores e posteriores semelhantes em coloração, variando de castanho a cinza; possui uma listra (pode ser escura ou clara) que cruza as asas de ponta a ponta, aproximadamente na região mediana",
+            "serve": "vue-cli-service serve"
+          }
+        }
+      ]
+  }],
+  "bugMosca": [
+    {
+      "list": [
+        {
+          "name": "Dolichopodidae",
+          "descA": "Mosca de tamanho pequeno a médio (0,5 a 1 cm)",
+          "descB": "Cores metalizadas entre verde, vermelho e azul. São moscas delicadas de pernas longas",
+          "id": "65488",
+          "sId": "dolichopodidae",
+          "version": "0.1.0",
+          "praga": true,
+          "gallery": [
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            }
+          ]
+        },
+        {
+          "name": "Syrphidae",
+          "descA": "Mosca de tamanho variado (0,5 a 2 cm).",
+          "descB": "Mosca das flores - Cabeça praticamente toda ocupada pelos olhos (semelhante a um 'capacete'). São delicadas normalmente de abdômen fino",
+          "id": "65488",
+          "sId": "dolichopodidae",
+          "version": "0.1.0",
+          "praga": false,
+          "pragaDesc": "larva é predadora",
+          "gallery": [
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            }
+          ]
+        },
+        {
+          "name": "Tachinidae",
+          "descA": "Mosca de tamanho variado (0,5 a 1,5 cm) normalmente de corpo robusto (“gordinha”) com várias cerdas bem evidentes espalhadas, principalmente no final do abdômen",
+          "descB": "Moscas taquinídeas (parasitoide)",
+          "id": "65488",
+          "sId": "dolichopodidae",
+          "version": "0.1.0",
+          "praga": false,
+          "pragaDesc": "larva é predadora",
+          "gallery": [
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-1-1a.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

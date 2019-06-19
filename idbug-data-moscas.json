@@ -1,0 +1,94 @@
+
+{
+  "bugs": [
+        {
+        "name": "Dolichopodidae",
+        "descA": "Mosca de tamanho pequeno a médio (0,5 a 1 cm)",
+        "descB": "Cores metalizadas entre verde, vermelho e azul. São moscas delicadas de pernas longas",
+        "size": "0,5 a 1 cm",
+        "id": "65488",
+        "sId": "dolichopodidae",
+        "predador": true,
+        "version": "0.1.0",     
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-6-1-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-1-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-1-3.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-1-4.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-1-5.png"
+            }
+        ]
+        },
+        {
+        "name": "Syrphidae",
+        "descA": "Mosca de tamanho variado (0,5 a 2 cm).",
+        "descB": "Mosca das flores - Cabeça praticamente toda ocupada pelos olhos (semelhante a um 'capacete'). São delicadas normalmente de abdômen fino.",
+        "size": "0,5 a 2 cm",
+        "id": "65488",
+        "sId": "dolichopodidae",
+        "version": "0.1.0",
+        "praga": false,
+        "predadorDesc": "larva é predadora",
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-6-2-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-2-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-2-3.png"
+            }
+        ]
+        },
+        {
+        "name": "Tachinidae",
+        "descA": "Moscas taquinídeas (parasitoide)",
+        "descB": "Mosca de tamanho variado (0,5 a 1,5 cm) normalmente de corpo robusto (“gordinha”) com várias cerdas bem evidentes espalhadas, principalmente no final do abdômen.",
+        "id": "65488",
+        "sId": "dolichopodidae",
+        "version": "0.1.0",
+        "praga": false,
+        "predadorDesc": "parasitoide",
+        "gallery": [
+            {
+            "desc": "",
+            "src": "ins-6-3-1.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-3-2.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-3-3.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-3-4.png"
+            },
+            {
+            "desc": "",
+            "src": "ins-6-3-5.png"
+            }
+        ]
+        }
+    ]
+}
