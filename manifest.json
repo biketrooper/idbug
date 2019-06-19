@@ -1,0 +1,17 @@
+{
+
+    "name": "GID Insetos Soja",
+    "short_name": "GID Insetos",
+    "start_url": "/idbug/",
+    "background_color": "#34b049",
+    "description": "Guia de Identificação Digital de insetos ocorrentes na lavoura de soja",
+    "display": "standalone",
+    "lang": "pt-br",
+    "icons": [
+      {
+        "src": "i/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
